@@ -1378,7 +1378,7 @@
     <repository>
       <id>repository.mapr.com</id>
       <name>MAPR PUBLIC</name>
-      <url>http://repository.mapr.com/nexus/content/groups/mapr-public</url>
+      <url>https://repository.mapr.com/nexus/content/groups/mapr-public</url>
     </repository>
     
     <repository>
